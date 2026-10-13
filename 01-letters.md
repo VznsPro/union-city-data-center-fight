@@ -21,8 +21,9 @@ Union City doesn't have to be an industrial sacrifice zone for companies that co
 I'll be at the next council meeting, and I'm organizing neighbors to be there too. Tell me what you need from us to make the permanent protections happen.
 
 — Jalen Lee
+4321 Smithgall Ct
 Union City, GA 30291
-[phone / email]
+(757) 771-6334
 
 ---
 
@@ -43,7 +44,9 @@ South Fulton already carries the county's warehouses and heavy industry. Stackin
 I'll be following the Development Authority's abatement votes closely.
 
 — Jalen Lee
+4321 Smithgall Ct
 Union City, GA 30291
+(757) 771-6334
 
 ---
 
@@ -67,7 +70,10 @@ This is a winnable, populist issue that crosses party lines — rising power bil
 I'd like to set a meeting to walk through what's already been filed and what needs strengthening. Your legislative assistant Cole Simmons can reach me directly.
 
 — Jalen Lee
-Union City, GA 30291 (District 38)
+4321 Smithgall Ct
+Union City, GA 30291
+(757) 771-6334
+District 38
 
 ---
 
@@ -88,7 +94,10 @@ I'm asking you to refile in 2027, and to co-sponsor across the three of you so i
 Please make south Fulton your proof point. I'll bring constituents to testify, and I'll make sure the media is there.
 
 — Jalen Lee
-Union City, GA 30291 (District 67)
+4321 Smithgall Ct
+Union City, GA 30291
+(757) 771-6334
+District 67
 
 ---
 
@@ -111,7 +120,9 @@ Overbuilding to chase demand that may not materialize could raise household bill
 I'll be filing formal comments in these dockets and asking my community to do the same.
 
 — Jalen Lee
+4321 Smithgall Ct
 Union City, GA 30291
+(757) 771-6334
 Georgia Power account holder
 
 ---
@@ -134,13 +145,15 @@ I'm asking you to take two actions:
 Georgia can welcome data centers without sacrificing its residents. Right now it's doing the opposite.
 
 — Jalen Lee
+4321 Smithgall Ct
 Union City, GA 30291
+(757) 771-6334
 
 ---
 
-## LETTER 7 — Federal (Ossoff / Warnock / McBath)
+## LETTER 7 — Federal (Ossoff / Warnock / Blair)
 
-Dear [Senator Ossoff / Senator Warnock / Representative McBath],
+Dear [Senator Ossoff / Senator Warnock / Representative Blair],
 
 I'm a constituent in Union City, Georgia, writing about a problem that needs federal eyes: the unregulated spread of hyperscale data centers across south Fulton County.
 
@@ -155,7 +168,9 @@ I'm asking you to:
 This is no longer a niche issue. It's grid reliability, it's water, it's rates, and it's who bears the cost of the AI buildout. My community is bearing it disproportionately.
 
 — Jalen Lee
+4321 Smithgall Ct
 Union City, GA 30291
+(757) 771-6334
 
 ---
 
@@ -180,15 +195,16 @@ The boil advisory isn't the data centers' fault — not yet. It's the warning. I
 I'll be at the next council meeting, and I'll bring neighbors who lived through the same three advisories.
 
 — Jalen Lee
+4321 Smithgall Ct
 Union City, GA 30291
-[phone / email]
+(757) 771-6334
 
 ---
 
 ## HOW TO USE THIS PACK
 
-1. **Verify your exact districts.** Enter your address at house.gov/representatives/find-your-representative — confirm US House (GA-6 McBath vs GA-13 Blair) and your state House district (likely 67, may be split).
-2. **Add your street address** to each letter (constituent mail gets priority).
+1. **Verify your exact districts.** Enter your address at house.gov/representatives/find-your-representative — US House = GA-13 (Rep. Everton Blair); State House = D-67 (Rep. Glaize); State Senate = D-38 (Sen. Kemp).
+2. **Address + phone already filled** — personalize the first line of each instead.
 3. **Personalize the first line** — a one-sentence specific detail about your block/street beats a template.
 4. **Send each as a separate, distinct message** — identical mass letters get logged and ignored. These already have distinct asks.
 5. **Follow up.** Call the district offices 3–5 days after sending. A call gets logged; a letter alone can sit.

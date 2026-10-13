@@ -65,7 +65,7 @@ South Fulton County — Union City, Fairburn, East Point, South Fulton, Palmetto
 ### State / Federal
 - **Brian Kemp** — Governor (gov.georgia.gov)
 - **Jon Ossoff** — US Senator (D) · **Raphael Warnock** — US Senator (D)
-- **Lucy McBath** — US Rep GA-6 (D) — verify district vs GA-13 (Everton Blair)
+- **Everton Blair Jr.** — US Rep GA-13 (D), Union City's rep (sworn in Sept 1, 2026 special election)
 
 ---
 

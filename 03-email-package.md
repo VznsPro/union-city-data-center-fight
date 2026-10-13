@@ -4,8 +4,8 @@ How to send each letter. Bodies are already finalized in `01-letters.md` — eac
 
 ## Before you send anything
 
-1. **Verify your district** at house.gov/representatives/find-your-representative (GA-6 McBath vs GA-13 Blair; state House 67 vs split). This decides whether you write McBath or Blair.
-2. **Fill [STREET ADDRESS] and [PHONE]** in the signature block of each letter.
+1. **Districts verified 10/13/26** — US House = GA-13 (Rep. Everton Blair); State House = D-67 (Rep. Glaize); State Senate = D-38 (Sen. Kemp).
+2. **Address + phone are already filled** in every signature (4321 Smithgall Ct · 757-771-6334) — just personalize the first line.
 3. **Personalize the first line** of each — one specific detail about your block/street beats a template.
 4. **Do not send identical letters** to multiple targets. Each letter already has a distinct ask.
 
@@ -21,7 +21,7 @@ How to send each letter. Bodies are already finalized in `01-letters.md` — eac
 | 4 | Reps. Glaize, Romman, Jackson | `lydia.glaize@house.ga.gov` · `ruwa.romman@house.ga.gov` · `derrick.jackson@house.ga.gov` | "Refile + co-sponsor the 2027 data-center bills" | Letter 4 |
 | 5 | GA Public Service Commission | `gapsc@psc.ga.gov` + electronic portal at psc.ga.gov | "Docket comments — data-center cost allocation (#56002, #56298, #56310, #56008)" | Letter 5 |
 | 6 | Governor Brian Kemp | Contact form at gov.georgia.gov (no direct email published) | "Emergency statewide data-center review" | Letter 6 |
-| 7 | Ossoff / Warnock / McBath | Forms: ossoff.senate.gov · warnock.senate.gov · mcbath.house.gov | "Constituent request — federal review of south Fulton data-center buildout" | Letter 7 |
+| 7 | Ossoff / Warnock / Blair | Forms: ossoff.senate.gov · warnock.senate.gov · blair.house.gov | "Constituent request — federal review of south Fulton data-center buildout" | Letter 7 |
 | 8 | Mayor Williams + Council (water) | `contactuc@unioncityga.org` | "Union City's third boil-water advisory — require water safeguards before any data center" | Letter 8 |
 
 ---
