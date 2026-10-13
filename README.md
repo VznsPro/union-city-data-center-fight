@@ -17,6 +17,8 @@ This repo is the working record: the case, the strategy, the target contacts, an
 | `00-case-study-and-strategy.md` | The situation (sourced), the ranked legal levers, target list, and resident outage log |
 | `01-letters.md` | 8 ready-to-send letters to mayor/council, county, state, PSC, governor, and federal reps |
 | `02-water-resilience-brief.md` | Oct 2026 boil-advisory research + honest data-center analysis + city fact-check |
+| `03-email-package.md` | Send guide — who, where, subject line, and order of operations for each letter |
+| `04-talking-points.md` | Print-ready one-pager for in-person meetings + pushback answers |
 
 ## The honest position on the boil-water advisories
 
